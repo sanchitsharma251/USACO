@@ -1,0 +1,15 @@
+This is a template for coding solutions
+
+1. Observations
+
+
+2. Time complexity of certain algorithm
+
+
+3. Implementation details
+
+
+4. Possible errors(indexing out of bounds)
+
+
+5. Debugging with test cases
