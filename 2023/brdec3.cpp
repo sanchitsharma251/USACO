@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
 void solve(int N, vector<vector<int>> d) {
     sort(d.begin(), d.end());
     long long answer = 0;
