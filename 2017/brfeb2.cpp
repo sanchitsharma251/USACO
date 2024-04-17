@@ -12,8 +12,8 @@ int main() {
             char cowA = alphabet[i];
             char cowB = alphabet[j];
 
-            vector<int> coordinatesA;
             vector<int> coordinatesB;
+            vector<int> coordinatesA;
             for (int k = 0; k < 52; ++k) {
                 if (s[k] == cowA) {
                     coordinatesA.push_back(k);
